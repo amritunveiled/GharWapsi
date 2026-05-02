@@ -14,6 +14,8 @@ GharWapsi is an affordable, real-time, IoT-based system designed to help find mi
 The data is shown on a mobile app developed using MIT App Inventor, allowing people to report a missing person, track them live (if wearing the device), or report a sighting. The app uses an open-source map API to show real-time locations, replacing costly and restrictive services like Google Maps. The system also includes visual indicators (LEDs) for button press feedback and upload status, ensuring a responsive interface.
 
 
+<img width="648" height="293" alt="image" src="https://github.com/user-attachments/assets/f2ef1db2-7f01-4ed0-93fe-1bd960402b98" />
+
 ---
 Objective
 
