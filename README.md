@@ -66,25 +66,36 @@ Hardware Features
 
 -Real-time updates via Firebase
 
+---
+
 Backend Features
 
-Firebase Auth: User login and registration
+-Firebase Auth: User login and registration
 
-Firebase DB: Stores location and reports
+-Firebase DB: Stores location and reports
 
-Firebase Storage: Upload and retrieve image
+-Firebase Storage: Upload and retrieve image
 
 ---
 
 WorkFlow:
+
 -Emergency Trigger
+
 -Button press sends GPS data to Firebase
+
 -App fetches and auto-displays location on open-source map
+
 -User Reports Missing Person
+
 -Info and photo submitted via app
+
 -Visible to all users on map
+
 -User Spots Someone
+
 -Can report with photo and location
+
 -Data appears live in app
 
 Conclusion:
