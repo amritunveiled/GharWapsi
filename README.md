@@ -36,6 +36,7 @@ NodeMCU ESP8266 – Controls GPS and uploads data
 NEO-6M GPS – Provides coordinates
 Button (4-pin) – Triggers location sharing
 LEDs – Indicate data upload and button status
+
 2. Software Layer
 Firebase – Realtime Database, Auth, and Storage
 MIT App Inventor – For building Android app without code
@@ -44,19 +45,33 @@ OpenStreetMap/Leaflet.js – For displaying real-time map locations
 ---
 
 Hardware Features
+
 -Real-time GPS tracking
-One-click emergency alert
-LEDs for status feedback
-📱 Mobile App Features (MIT App Inventor)
-Sign in / Register functionality (Firebase)
-Submit missing person details with photo
-View live location from NodeMCU GPS
-Report sightings with details and image
-Open-source Map (OpenStreetMap) integration
-Real-time updates via Firebase
+
+-One-click emergency alert
+
+-LEDs for status feedback
+
+-Mobile App Features (MIT App Inventor)
+
+-Sign in / Register functionality (Firebase)
+
+-Submit missing person details with photo
+
+-View live location from NodeMCU GPS
+
+-Report sightings with details and image
+
+-Open-source Map (OpenStreetMap) integration
+
+-Real-time updates via Firebase
+
 Backend Features
+
 Firebase Auth: User login and registration
+
 Firebase DB: Stores location and reports
+
 Firebase Storage: Upload and retrieve image
 
 ---
