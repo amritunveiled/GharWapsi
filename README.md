@@ -98,6 +98,7 @@ WorkFlow:
 
 -Data appears live in app
 
+---
 Conclusion:
 
 This version of GharWapsi offers an open, cost-effective, and easily replicable solution for missing person tracking. By utilizing MIT App Inventor and OpenStreetMap, the solution avoids platform restrictions while keeping the development and deployment entirely free. The addition of real-time GPS via NodeMCU and emergency triggers ensures faster intervention, giving families hope and communities a way to help.
