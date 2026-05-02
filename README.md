@@ -16,11 +16,16 @@ The data is shown on a mobile app developed using MIT App Inventor, allowing peo
 
 ---
 Objective
-Track missing persons in real-time using GPS and NodeMCU
-Enable users to report or spot someone through a user-friendly Android app
-Use open-source mapping solutions to reduce cost
-Build a scalable and simple prototype for public benefit
-Offer a unified app for both reporting and spotting users
+
+-Track missing persons in real-time using GPS and NodeMCU
+
+-Enable users to report or spot someone through a user-friendly Android app
+
+-Use open-source mapping solutions to reduce cost
+
+-Build a scalable and simple prototype for public benefit
+
+-Offer a unified app for both reporting and spotting users
 
 ---
 
